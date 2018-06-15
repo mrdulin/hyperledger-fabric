@@ -1,0 +1,27 @@
+{
+  "name": "hyperledger-fabric",
+  "version": "1.0.0",
+  "description": "hyperledger fabric research",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrdulin/hyperledger-fabric.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrdulin/hyperledger-fabric/issues"
+  },
+  "homepage": "https://github.com/mrdulin/hyperledger-fabric#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0",
+    "mocha": "^5.1.1"
+  }
+}
