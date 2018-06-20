@@ -2,6 +2,17 @@
 
 hyperledger fabric research
 
+## TODO
+
+-[] gossip
+-[] MSP
+-[] TLS
+-[] 非对称加密
+-[] golang
+-[] grpc
+-[] protocol buffer
+-[] jsonrpc
+
 ## 参考链接
 
 https://github.com/chaozh/awesome-blockchain-cn
